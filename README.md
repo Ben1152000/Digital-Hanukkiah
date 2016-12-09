@@ -13,4 +13,4 @@ Plan for Sunday:
 8. Write code for Arduino.
 
 Materials:
-Superglue, Wood paint.
+Superglue, Wood paint, 3x3 wood, 8 hinges.
